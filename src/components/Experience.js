@@ -11,9 +11,11 @@ const Experience = () => {
                     </ul>
                 </li>
                 <li>
-                    <i>DApp University</i>, 2022
+                    <i>DApp University, Blockchain Bootcamp</i>, 2022
                     <ul>
                         <li>Created full production crypto marketplace</li>
+                        <li>Created and Deployed mutiple tokens and marketplace exchange</li>
+                        <li>Built interactive frontend</li>
                     </ul>
                 </li>
                 
