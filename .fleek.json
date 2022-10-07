@@ -1,0 +1,9 @@
+{
+    "build": {
+      "image": "",
+      "command": "npm install && npm run build && echo $SOME_ENV",
+      "publicDir": "build",
+      "baseDir": "public",
+      "environment": {}
+    }
+   }
