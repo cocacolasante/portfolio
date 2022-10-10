@@ -37,7 +37,7 @@ const Projects = () => {
                         Website Alpha coming soon
                     </p>
 
-                    <a href="" target="_blank" className="button">Site</a>
+                    <a href="https://broken-sun-4203.on.fleek.co/" target="_blank" className="button">Site</a>
                     <a href="https://github.com/cocacolasante/defibeatsv2" target="_blank" className="button">Code</a>
                 </div>
 
