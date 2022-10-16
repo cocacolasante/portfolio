@@ -22,8 +22,8 @@ const Projects = () => {
                         The NFTs are free, just pay gas
                     </p>
 
-                    <a href="https://ai-aliens-nft.vercel.app/ " target="_blank" className="button">Site</a>
-                    <a href="https://github.com/cocacolasante/ai_aliens_nft" target="_blank" className="button">Code</a>
+                    <a rel="noreferrer" href="https://ai-aliens-nft.vercel.app/ " target="_blank" className="button">Site</a>
+                    <a rel="noreferrer" href="https://github.com/cocacolasante/ai_aliens_nft" target="_blank" className="button">Code</a>
                 </div>
 
                 <div className="projects__card">
@@ -37,8 +37,8 @@ const Projects = () => {
                         Website Alpha coming soon
                     </p>
 
-                    <a href="https://broken-sun-4203.on.fleek.co/" target="_blank" className="button">Site</a>
-                    <a href="https://github.com/cocacolasante/defibeatsv2" target="_blank" className="button">Code</a>
+                    <a rel="noreferrer" href="https://broken-sun-4203.on.fleek.co/" target="_blank" className="button">Site</a>
+                    <a rel="noreferrer" href="https://github.com/cocacolasante/defibeatsv2" target="_blank" className="button">Code</a>
                 </div>
 
                 <div className="projects__card">
@@ -54,8 +54,8 @@ const Projects = () => {
 
                     </p>
 
-                    <a href="https://polygon-ibwgqp6bt-cocacolasante.vercel.app/" target="_blank" className="button">Site</a>
-                    <a href="https://github.com/cocacolasante/polygon_ens" target="_blank" className="button">Code</a>
+                    <a rel="noreferrer" href="https://polygon-ibwgqp6bt-cocacolasante.vercel.app/" target="_blank" className="button">Site</a>
+                    <a rel="noreferrer" href="https://github.com/cocacolasante/polygon_ens" target="_blank" className="button">Code</a>
                 </div>
 
 
