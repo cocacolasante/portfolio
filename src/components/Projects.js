@@ -1,6 +1,6 @@
 // Import Assets
 import defibeats from "../assets/defibeatscreenshot.png"
-import abx from "../assets/abx.png"
+import santetokenScreenshot from "../assets/santetoken_screenshot.png"
 import aiAliens from "../assets/ai_aliens.png"
 
 const Projects = () => {
@@ -42,20 +42,21 @@ const Projects = () => {
                 </div>
 
                 <div className="projects__card">
-                    <h3>ABX Naming Service</h3>
-                    <img src={abx} alt="abx Landing Page" />
+                    <h3>Sante Crypto</h3>
+                    <img src={santetokenScreenshot} alt="abx Landing Page" />
                     <p>
-                        An ENS Naming Service. Mint your own ".abx" ENS on the Mumbai testnet!
-
+                        Sante Crypto Token -mintable on the Polygon Mumbai Testnet
+                        Soon to deploy on mainnet
+                        mint costs .1 matic
+                        Stay tuned for additional benefits from getting tokens early!
                         
-
-                        Test now on the Mumbai network!
+                        
 
 
                     </p>
 
-                    <a rel="noreferrer" href="https://polygon-ibwgqp6bt-cocacolasante.vercel.app/" target="_blank" className="button">Site</a>
-                    <a rel="noreferrer" href="https://github.com/cocacolasante/polygon_ens" target="_blank" className="button">Code</a>
+                    <a rel="noreferrer" href="https://withered-math-5459.on.fleek.co/" target="_blank" className="button">Site</a>
+                    <a rel="noreferrer" href="https://github.com/cocacolasante/sante_token_erc20/tree/master" target="_blank" className="button">Code</a>
                 </div>
 
 
