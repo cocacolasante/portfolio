@@ -27,7 +27,7 @@ const Projects = () => {
                 </div>
 
                 <div className="projects__card">
-                    <h3>DeFiBeat Music Marketplace (in development)</h3>
+                    <h3>DegenBeat Music Marketplace (in development)</h3>
                     <img src={defibeats} alt="defi beats Landing Page" />
                     <p>
                         A fully decentralized, NFT based, music marketplace and social media plateform. 
