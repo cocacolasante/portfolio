@@ -2,6 +2,7 @@
 import defibeats from "../assets/defibeatscreenshot.png"
 import santetokenScreenshot from "../assets/santetoken_screenshot.png"
 import aiAliens from "../assets/ai_aliens.png"
+import cryptixss from "../assets/cryptix-screenshot.png"
 
 const Projects = () => {
     return (
@@ -42,21 +43,17 @@ const Projects = () => {
                 </div>
 
                 <div className="projects__card">
-                    <h3>Sante Crypto</h3>
-                    <img src={santetokenScreenshot} alt="abx Landing Page" />
+                    <h3>Cryptix(in development)</h3>
+                    <img src={cryptixss} alt="abx Landing Page" />
                     <p>
-                        Sante Crypto Token -mintable on the Polygon Mumbai Testnet
-                        Soon to deploy on mainnet
-                        mint costs .1 matic
-                        Stay tuned for additional benefits from getting tokens early!
+                        Decentralized NFT Ticket creation platform and marketplace
+                        Create your own event and nft ticket system and collectible
                         
-                        
-
-
+                    
                     </p>
 
-                    <a rel="noreferrer" href="https://withered-math-5459.on.fleek.co/" target="_blank" className="button">Site</a>
-                    <a rel="noreferrer" href="https://github.com/cocacolasante/sante_token_erc20/tree/master" target="_blank" className="button">Code</a>
+                    <a rel="noreferrer" href="https://plain-butterfly-8263.on.fleek.co/" target="_blank" className="button">Site</a>
+                    <a rel="noreferrer" href="https://github.com/cocacolasante/cryptixv3" target="_blank" className="button">Code</a>
                 </div>
 
 
