@@ -7,6 +7,15 @@ const Services = () => {
 
             <ul>
                 <li>
+                    <i>Monthly Retainer</i>
+                    <ul>
+                        <li>Hire me for a monthly retainer based on your needs</li>
+                        <li>Can work with existing blockchain smart contracts and write new smart contracts</li>
+                        <li>Multiple Blockchain Deployment</li>
+                        <li>Can merge and mesg well existing project and team</li>
+                    </ul>
+                </li>
+                <li>
                     <i>NFT Projects</i>
                     <ul>
                         <li>ERC721 Compliant</li>
