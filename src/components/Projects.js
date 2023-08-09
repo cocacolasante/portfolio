@@ -2,6 +2,7 @@
 import defibeats from "../assets/defibeatscreenshot.png"
 import socialverification from "../assets/socialverification.png"
 import cryptixss from "../assets/cryptix-screenshot.png"
+import cyberevo from "../assets/cyberevo screenshot.png"
 
 const Projects = () => {
     return (
@@ -9,12 +10,24 @@ const Projects = () => {
             <h2>My Projects</h2>
 
             <div className="projects__cards">
+            <div className="projects__card">
+                    <h3>CyberEvo Coders</h3>
+                    <img src={cyberevo} alt="Cyber Evo Coders" />
+                    <p>
+                        Cybernetic Evolutions of humans, where we will be in 50 years
+                        
+                    
+                    </p>
+
+                    <a rel="noreferrer" href="https://cyberevofrontend-3wj2pq9n0-cocacolasante.vercel.app/" target="_blank" className="button">Site</a>
+                    <a rel="noreferrer" href="https://github.com/cocacolasante/cyberevofrontend/tree/main" target="_blank" className="button">Code</a>
+                </div>
 
            
 
                 <div className="projects__card">
                     <h3>Social Post Verification</h3>
-                    <img src={socialverification} alt="aialiens Swap Page" />
+                    <img src={socialverification} alt="social post verifications" />
                     <p>
                         With the rise of AI generated content, we utilize the blockchain to verify your posts 
                         to the blockchain. From there, you will have a QR code you can attached/embed in your images or videos
@@ -55,6 +68,7 @@ const Projects = () => {
                     <a rel="noreferrer" href="https://plain-butterfly-8263.on.fleek.co/" target="_blank" className="button">Site</a>
                     <a rel="noreferrer" href="https://github.com/cocacolasante/cryptixv3" target="_blank" className="button">Code</a>
                 </div>
+
 
 
             </div>
