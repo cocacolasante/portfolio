@@ -7,7 +7,7 @@ const Header = () => {
     
 
     useEffect(()=>{
-        fetch("http://74.208.234.81:8080/randomfact")
+        fetch("https://api.anthonycolasante.com/randomfact")
       .then(response => response.json()) // or response.json() if the endpoint returns JSON
       .then(data => {
         
