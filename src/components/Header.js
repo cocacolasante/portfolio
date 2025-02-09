@@ -1,14 +1,10 @@
-// Import Assets
-
-import { useEffect, useState } from "react";
-
-const linkedinPhoto = "https://anthony-profileproject-bucket.s3.us-central-1.ionoscloud.com/linkedin profile picture.jpg"
+import { useEffect, useState } from "react"
 
 
-
-
+const linkedinPhoto = "https://media.licdn.com/dms/image/C4E03AQGbTgNFL-LfBg/profile-displayphoto-shrink_800_800/0/1577986340037?e=1696464000&v=beta&t=XVjzDY-oXyEqWs97-gImGbGDSuIZSRqrI_jEBzri7Co"
 const Header = () => {
     const [fact, setFact] = useState("")
+    
 
     useEffect(()=>{
         fetch("http://74.208.234.81:8080/randomfact")
